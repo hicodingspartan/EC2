@@ -1,6 +1,7 @@
 # Launching Your Journey into the Cloud: An EC2 Instance Creation Guide
 
-Welcome, adventurers! This guide is your compass for navigating the exciting world of Amazon's Elastic Compute Cloud (EC2) instances ☁️. Whether you're a seasoned cloud explorer ‍♀️ or a curious newcomer, this document will equip you with the knowledge and tools to create and manage your own EC2 instances with confidence.- [Guided tutorial Documentation](https://docs.google.com/document/d/1p1EyvvAgsDlgLHrnSPHU2quZr_yJSm3_9-CS9SDbSfk/edit?usp=sharing)
+Welcome, adventurers! This guide is your compass for navigating the exciting world of Amazon's Elastic Compute Cloud (EC2) instances ☁️. Whether you're a seasoned cloud explorer ‍♀️ or a curious newcomer, this document will equip you with the knowledge and tools to create and manage your own EC2 instances with confidence.
+- [Guided tutorial Documentation](https://docs.google.com/document/d/1p1EyvvAgsDlgLHrnSPHU2quZr_yJSm3_9-CS9SDbSfk/edit?usp=sharing)
 
 ## 🌟 Who Should Join This Expedition?
 
